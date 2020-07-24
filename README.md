@@ -1,8 +1,8 @@
 # Deep Q-Learning
 
-In this project Deep Q-Learning was explored for playing Atari Breakout. In particular Deep Q-Learning (DQN) [(Mnih et al. 2015)], Double Deep Q-Learning (DDQN) [(Van Hasselt et al. 2016)], Duelling Deep Q-Learning [(Wang et al. 2015)] and Double Deep Q-Learning with Prioritised Replay Memory (DDQN with PRM) [(Schaul et al. 2016)] were implemented. The project formed the final coursework for our Reinforcement Learning course. Madge Kelly, Joe Rosenberg and Joe Molyneux-Saudners (myself) made equal contributions to the project. A detailed explaination of the implementations and discussion of the results can be found in the [report PDF].
+In this project Deep Q-Learning was explored for playing Atari Breakout. In particular Deep Q-Learning (DQN) [(Mnih et al. 2015)], Double Deep Q-Learning (DDQN) [(Van Hasselt et al. 2016)], Duelling Deep Q-Learning [(Wang et al. 2015)] and Double Deep Q-Learning with Prioritised Replay Memory (DDQN with PRM) [(Schaul et al. 2016)] were implemented. The project formed the final coursework for a Reinforcement Learning course. Madge Kelly, Joe Rosenberg and Joe Molyneux-Saunders (myself) made equal contributions to the project. A detailed explaination of the implementations and discussion of the results can be found in the [report PDF].
 
-Our Double Deep Q-Learning Agent Playing Breakout.
+Double Deep Q-Learning Agent Playing Breakout.
 
 ![alt text][play]
 
